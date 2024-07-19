@@ -1,3 +1,3 @@
 <template>
-    <div class="font-sans">Hello World</div>
+    <div class="font-sans text-6xl text-cyan-400">Hello World</div>
 </template>
