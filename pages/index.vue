@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-none justify-between flex-1">
+    <div class="max-w-none justify-between flex px-100">
         <Header />
     </div>
 </template>
