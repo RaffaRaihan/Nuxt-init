@@ -1,16 +1,17 @@
 <template>
-    <section class="w-auto h-68">
-        <header class="px-100 flex justify-between">
-            <div class="logo w-4/12 p-4">
-                <img src="assets/vectors/logo.svg" alt="logo">
-            </div>
-            <div class="menu col-auto p-4">
-                <a href="#">About Us</a>
-                <a href="#">Services</a>
-                <a href="#">Use Cases</a>
-                <a href="#">Pricing</a>
-                <a href="#">Blog</a>
-            </div>
-        </header>
-    </section>
+    <header class="px-24 flex justify-between items-end text-center border-2">
+        <div class="">
+        <div class="logo w-mx-10 my-1.5 border-2">
+            <img src="assets/vectors/logo.svg" alt="logo">
+        </div>
+        <div class="menu mx-10 text-center items-center border-2">
+            <a href="#" class="m-4">About Us</a>
+            <a href="#" class="m-4">Services</a>
+            <a href="#" class="m-4">Use Cases</a>
+            <a href="#" class="m-4">Pricing</a>
+            <a href="#" class="m-4">Blog</a>
+            <Button />
+        </div>
+    </div>
+    </header>
 </template>
