@@ -1,3 +1,5 @@
 <template>
-    <div class="font-sans text-6xl text-cyan-400">Hello World</div>
+    <div class="max-w-none justify-between flex-1">
+        <Header />
+    </div>
 </template>
