@@ -1,3 +1,5 @@
 <template>
-    <div class="font-sans">Hello World</div>
+    <div>
+        <Header />
+    </div>
 </template>
