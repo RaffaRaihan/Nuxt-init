@@ -1,15 +1,15 @@
 <template>
-    <header class="my-10 px-24 flex justify-between items-center text-center font-space">
-        <div class="logo w-mx-10 my-1.5">
+    <header class="mt-[40px] mb-[70px] px-[100px] flex justify-between items-center text-center font-space">
+        <div class="logo w-[219.54px] py-[10px]">
             <img src="assets/vectors/logo.svg" alt="logo">
         </div>
-        <div class="menu mx-10 text-center items-center">
+        <div class="menu text-center items-center">
             <a href="#" class="m-4">About Us</a>
             <a href="#" class="m-4">Services</a>
             <a href="#" class="m-4">Use Cases</a>
             <a href="#" class="m-4">Pricing</a>
             <a href="#" class="m-4">Blog</a>
-            <Button />
+            <ButtonNav />
         </div>
     </header>
 </template>

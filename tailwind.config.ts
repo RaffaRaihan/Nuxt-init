@@ -5,7 +5,7 @@ module.exports = {
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
-      space: ['SpaceGrotesk'],
+      space: ['Space+Grotesk'],
     },
     extend: {
       spacing: {
