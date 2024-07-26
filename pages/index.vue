@@ -5,5 +5,9 @@
         <Main />
         <slot />
         <Company />
+        <slot />
+        <Services />
+        <slot />
+        <Card />
     </div>
 </template>
