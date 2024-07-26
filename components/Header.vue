@@ -1,5 +1,5 @@
 <template>
-    <header class="my-10 px-24 flex justify-between items-center text-center">
+    <header class="my-10 px-24 flex justify-between items-center text-center font-space">
         <div class="logo w-mx-10 my-1.5">
             <img src="assets/vectors/logo.svg" alt="logo">
         </div>
