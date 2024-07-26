@@ -1,5 +1,5 @@
 <template>
-    <header class="mt-[40px] mb-[70px] px-[100px] flex justify-between items-center text-center font-space">
+    <header class="mt-[40px] mb-[70px] px-[100px] w-[1440px] flex justify-between items-center text-center font-space">
         <div class="logo w-[219.54px] py-[10px]">
             <img src="assets/vectors/logo.svg" alt="logo">
         </div>

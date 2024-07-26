@@ -11,7 +11,7 @@
                         <a href="#"><p class="font-normal text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card py-[20px] w-[210px] h-[170px]">
                     <img src="assets/vectors/card-1.svg" alt="gambar-card-1">
                 </div>
             </div>
@@ -26,7 +26,7 @@
                         <a href="#"><p class="font-normal text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card py-[31.19px] w-[210px] h-[147.62px]">
                     <img src="assets/vectors/card-2.svg" alt="gambar-card-2">
                 </div>
             </div>
@@ -41,7 +41,7 @@
                         <a href="#"><p class="font-normal text-white text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card w-[210px] h-[210px]">
                     <img src="assets/vectors/card-3.svg" alt="gambar-card-3">
                 </div>
             </div>
@@ -56,7 +56,7 @@
                         <a href="#"><p class="font-normal text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card w-[210px] h-[192.68px] rotate-180">
                     <img src="assets/vectors/card-4.svg" alt="gambar-card-4">
                 </div>
             </div>
@@ -71,7 +71,7 @@
                         <a href="#"><p class="font-normal text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card w-[210px] h-[195.91px]">
                     <img src="assets/vectors/card-5.svg" alt="gambar-card-5">
                 </div>
             </div>
@@ -86,7 +86,7 @@
                         <a href="#"><p class="font-normal text-white text-xl font-space py-[6.5px]">Learn more</p></a>
                     </div>
                 </div>
-                <div class="img-card">
+                <div class="img-card py-[20px] w-[210px] h-[170px]">
                     <img src="assets/vectors/card-6.svg" alt="gambar-card-6">
                 </div>
             </div>
