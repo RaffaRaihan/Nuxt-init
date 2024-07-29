@@ -1,3 +1,10 @@
+<script setup>
+useSeoMeta({
+  title: 'Nuxt Raffa',
+  description: 'Vue Framework.'
+})
+</script>
+
 <template>
   <div>
     <NuxtLayout>
