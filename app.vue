@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 useSeoMeta({
   title: 'Nuxt Raffa',
   description: 'Vue Framework.'
