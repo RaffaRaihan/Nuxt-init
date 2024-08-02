@@ -6,7 +6,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
+  <div class="w-[100%] justify-center inline-flex">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
