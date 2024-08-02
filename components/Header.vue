@@ -1,7 +1,7 @@
 <template>
     <header class="mt-[40px] mb-[70px] px-[100px] w-[1440px] flex justify-between items-center text-center font-space">
         <div class="logo w-[219.54px] py-[10px]">
-            <NuxtLink><img src="assets/vectors/logo.svg" alt="logo"></NuxtLink>
+            <NuxtLink><img src="../assets/vectors/Logo.svg" alt="logo"></NuxtLink>
         </div>
         <div class="menu text-center items-center">
             <NuxtLink href="#" class="m-4">About Us</NuxtLink>

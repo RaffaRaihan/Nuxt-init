@@ -7,7 +7,7 @@
             <ButtonMain />
         </div>
         <div class="illustration w-[600.46px] h-[515px]">
-            <img src="assets/vectors/illustration.svg" alt="Illustration">
+            <img src="../assets/vectors/illustration.svg" alt="Illustration">
         </div>
     </section>
 </template>
